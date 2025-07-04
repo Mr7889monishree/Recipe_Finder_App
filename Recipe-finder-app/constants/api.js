@@ -1,0 +1,1 @@
+export const API_URL="https://recipe-finder-app-x9xm.onrender.com/api"
